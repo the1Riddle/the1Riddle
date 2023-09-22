@@ -11,6 +11,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=the1Riddle&icon=2&color=0)](https://visitcount.itsvg.in)
+
 <!---
 the1Riddle/the1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
