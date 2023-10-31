@@ -2,10 +2,10 @@
 <h2> 👋 Hi, I’m Elvis Otieno </h2>
 
 - 🔭I’m am currently enrolled in: ALX_Africa /Holberton School Curriculum/
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python concurrently with C
-- 💞️ I’m looking to collaborate on any open-source project
-- 📫 How to reach me: elv.s.earl@gmail.com
+- 👀 Interested in Software Engineering
+- 🌱 I'm currently working on Python concurrently with C programming languages
+- 💞️ Looking to collaborate on any open-source project
+- 📫 You can reach me through my email at: elv.s.earl@gmail.com
 
 ## 📈 Some stats
 
