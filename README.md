@@ -3,7 +3,7 @@
 
 - 🔭I’m am currently enrolled in: ALX_Africa /Holberton School Curriculum/
 - 👀 Interested in Software Engineering
-- 🌱 I'm currently working on Python concurrently with C programming languages
+- 🌱 I'm currently working on Python concurrently with C programming languages.
 - 💞️ Looking to collaborate on any open-source project
 - 📫 You can reach me through my email at: elv.s.earl@gmail.com
 
