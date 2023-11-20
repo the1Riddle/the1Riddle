@@ -3,11 +3,7 @@
 
 I am currently enrolled in the ALX Africa/Holberton School Curriculum and interested in software engineering. Currently, I am working on Python and C programming languages simultaneously. I am also seeking opportunities to collaborate on any open-source project. If you would like to reach me, you can achieve that through my email >> elv.s.earl@gmail.com <<. 
 
-Thank you!
-## 📈 Some stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+Thank you
 ### ✍️ Random Dev Joke
 
   &nbsp; &nbsp; &nbsp; &nbsp; Why is the Terminal black?
