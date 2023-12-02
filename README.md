@@ -3,7 +3,7 @@
 
 I am currently enrolled in the ALX Africa/Holberton School Curriculum and interested in software engineering. Currently, I am working on Python and C programming languages simultaneously. I am also seeking opportunities to collaborate on any open-source project. If you would like to reach me, you can achieve that through my email >> elv.s.earl@gmail.com <<
 
-Thank you
+Thank you.
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
