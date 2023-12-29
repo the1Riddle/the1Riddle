@@ -11,7 +11,7 @@ Thank you.
   </a>
 </p>
 
-### ✍️ Random Dev Joke
+### ✍️ Random Dev Joke.
 
   &nbsp; &nbsp; &nbsp; &nbsp; Why is the Terminal black?
   
