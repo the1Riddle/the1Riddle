@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Otieno;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nirobi+Kenya)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Otieno;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
 <h2> 👋 Hi, I’m Elvis Otieno <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture></h2>
 
 I am enrolled in the ALX Africa/Holberton School Curriculum and interested in software engineering. Currently, I am working on Python and C programming languages simultaneously. I am also seeking opportunities to collaborate on any open-source project. If you would like to reach me, you can achieve that through my email >> elvisotienomboya@gmail.com <<
