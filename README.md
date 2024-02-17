@@ -12,6 +12,15 @@ Thank you.
   </a>
 </p>
 
+## 📈 Statistics
+
+<br>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+</p>
+
+
 ### ✍️ Random Dev Joke.
 
   &nbsp; &nbsp; &nbsp; &nbsp; Why is the Terminal black?
