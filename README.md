@@ -1,7 +1,7 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Otieno;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
 <h2> 👋 Hi, I’m Elvis Otieno <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture></h2>
 
-Enrolled in the ALX Africa/Holberton School Curriculum and interested in software engineering.
+I'm a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
 - Currently, I am working on my [portfolio project.](https://github.com/the-1Riddle/ChessUI)
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
