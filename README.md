@@ -1,4 +1,13 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Otieno;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://github.com/danieleverest"><img src="https://github-widgetbox.vercel.app/api/profile?username=the1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
+</p>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
+</p>
+
+
 <h2> 👋 Hi, I’m Elvis Otieno <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture></h2>
 
 I'm a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
@@ -8,6 +17,7 @@ I am also an open-Sourcerer and seeking more opportunities to collaborate on any
 <br>[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:elvisotienomboya@gmail.com)
 
 Thank you.
+
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
@@ -15,7 +25,7 @@ Thank you.
   </a>
 </p>
 
-## 📈 Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
 
 <br>
 <p align="center">
