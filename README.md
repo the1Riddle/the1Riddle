@@ -1,6 +1,7 @@
-<p align="center">
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
+<!--p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
-</p>
+</p-->
 
 
 <p align="center">
