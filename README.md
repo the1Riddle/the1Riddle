@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://github.com/danieleverest"><img src="https://github-widgetbox.vercel.app/api/profile?username=the1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
 </p>
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
+<a href="https://github.com/danieleverest"><img src="https://github-widgetbox.vercel.app/api/profile?username=the1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
 </p>
 
 
