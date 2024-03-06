@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://github.com/danieleverest"><img src="https://github-widgetbox.vercel.app/api/profile?username=the1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
+<a href="https://github.com/the-1Riddle"><img src="https://github-widgetbox.vercel.app/api/profile?username=the1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
 </p>
 
 
