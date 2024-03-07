@@ -9,9 +9,9 @@
 </p>
 
 
-<h2> 👋 Hi, I’m Elvis Otieno <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture></h2>
+<h2><img src="https://media.giphy.com/media/IfrguYWyciO4A8cZcH/giphy.gif?cid=ecf05e47uiwyd5zr044u9z0vgan0a1woaf8tyyssgh1njpm8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="30"> Hello, how's it going, pals...<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h2>
 
-I'm a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
+I'm Elvis Otieno, a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
 - Currently, I am working on my [portfolio project.](https://github.com/the-1Riddle/ChessUI)
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
