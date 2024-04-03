@@ -13,7 +13,7 @@
 
 I'm Elvis Otieno, a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
 - Currently, I'm ~working on my [portfolio project.](https://github.com/the-1Riddle/ChessUI)~ \
-                 \crafting my specializatio projects with precision and joy. 
+                 \crafting my specialization projects with precision and joy. 
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
 <br>[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:elvisotienomboya@gmail.com)
@@ -33,6 +33,7 @@ Thank you.
 <p align="center">
     <a href="https://github.com/the-1Riddle" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
     <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+</p>
 
 
 ### ✍️ Random Dev Joke.
