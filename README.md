@@ -2,7 +2,7 @@
 <!--p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
 </p
-[![](https://visitcount.itsvg.in/api?id=the-1Riddle&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 -->
 
 <h1>Hello, pals... <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
