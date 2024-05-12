@@ -1,9 +1,5 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
-<!--p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+You+Are+Welcome+To+My+Profile;Hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"></a>
-</p
-[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
--->
+
 
 <h1>Hello, pals... <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
@@ -26,8 +22,8 @@ Thank you.
 
 <br>
 <p align="center">
-    <a href="https://github.com/the-1Riddle" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
-    <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+    <a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+    <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
 
