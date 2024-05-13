@@ -22,7 +22,7 @@ Thank you.
 
 <br>
 <p align="center">
-    <a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+    <a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
     <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
