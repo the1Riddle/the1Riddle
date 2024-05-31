@@ -33,7 +33,8 @@ Thank you.
   
   &nbsp; &nbsp; &nbsp; &nbsp; Because programmers are attrackted to dark mode.
 
-![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
+![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
+
 
 <!---
 the1Riddle/the1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
