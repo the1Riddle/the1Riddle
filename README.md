@@ -1,4 +1,4 @@
-</br></br>
+testing
 <a href="https://github.com/the-1Riddle">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
@@ -8,9 +8,9 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/the-1Riddle">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> <a href="https://git.io/typing-svg">
+   </a> 
 <img src="https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"/>
-</a>
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="1px"  />
 </p>
 
 
