@@ -33,7 +33,7 @@ Thank you.
 <br>
 
 <a href="https://github.com/the-1Riddle">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="80%" height="2px"  />
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
 </br>
@@ -42,7 +42,7 @@ Thank you.
 ![Alt](https://repobeats.axiom.co/api/embed/413781a079476d1eef25d9e73cff4cf6664638b4.svg "Repobeats analytics image")
 
 
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="80%" height="2px"  />
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 
 </br>
 
