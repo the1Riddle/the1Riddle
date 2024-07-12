@@ -1,14 +1,9 @@
-<a href="https://github.com/the-1Riddle">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
+<br>
 
 <p align="center">
  <a href="https://github.com/the-1Riddle">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/the-1Riddle">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 
-<img src="https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"/>
+ <img src="https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"/>
+
 </p>
 
 
@@ -25,7 +20,7 @@ Thank you.
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,python,js,git,bash,php,github,dotnet,flask,fastapi,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,visualstudio,sublime,docker,html,css&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,cs,python,js,git,bash,php,github,dotnet,flask,fastapi,vue,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,visualstudio,sublime,docker,html,css&perline=13" />
   </a>
 </p>
 
@@ -35,10 +30,21 @@ Thank you.
 <a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
 <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 
+<br>
+
+<a href="https://github.com/the-1Riddle">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="80%" height="2px"  />
+</a>
+
+</br>
+
+
 ![Alt](https://repobeats.axiom.co/api/embed/413781a079476d1eef25d9e73cff4cf6664638b4.svg "Repobeats analytics image")
 
-</br></br>
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="80%" height="2px"  />
+
+</br>
 
 ### ✍️ 【﻿Random Dev Joke】
 
