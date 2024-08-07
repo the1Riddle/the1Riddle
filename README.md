@@ -29,8 +29,7 @@ Thank you.
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
 
@@ -38,19 +37,6 @@ Thank you.
 <a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=the1Riddle&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
 <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 
-<br>
-
-<a href="https://github.com/the-1Riddle">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-
-</br>
-
-
-![Alt](https://repobeats.axiom.co/api/embed/413781a079476d1eef25d9e73cff4cf6664638b4.svg "Repobeats analytics image")
-
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 
 </br>
 
@@ -60,9 +46,13 @@ Thank you.
   
   &nbsp; &nbsp; &nbsp; &nbsp; Because programmers are attrackted to dark mode.
 
-![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
+![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
 
 
+<br>
+
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 <!---
 the1Riddle/the1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
