@@ -9,8 +9,9 @@
 
 <h1>Hello, pals... <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
-I'm Elvis Otieno, a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.
-- Currently, I'm crafting my specialization projects with precision and joy. 
+I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.--> a young passionate and dynamic software developer dedicated to creating cutting-edge applications and websites, with a primary focus on the backend.
+
+- Currently, I'm working on the EmpowerHer website project with precision and joy. 
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
 <br>[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:elvisotienomboya@gmail.com)
