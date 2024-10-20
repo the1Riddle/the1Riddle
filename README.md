@@ -21,7 +21,7 @@ Thank you.
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,python,js,rust,git,bash,php,github,dotnet,flask,fastapi,vue,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,visualstudio,docker,html,css&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,python,rust,cs,js,git,bash,php,github,dotnet,flask,fastapi,vue,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,visualstudio,docker,html,css&perline=13" />
   </a>
 </p>
 
@@ -51,9 +51,6 @@ Thank you.
 
 
 <br>
-
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 <!---
 the1Riddle/the1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
