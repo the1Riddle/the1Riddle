@@ -13,9 +13,7 @@ I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Ho
 
 - Currently working on the EmpowerHer website project, a robust platform where women can connect, share experiences, and engage in discussions on crucial topics promoting women's wellness. 
 
-I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
-<br>[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:elvisotienomboya@gmail.com)
-
+I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: [Gmail](mailto:elvisotienomboya@gmail.com) .
 Thank you.
 
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
