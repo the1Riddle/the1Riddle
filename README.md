@@ -3,11 +3,15 @@
 <p align="center">
  <a href="https://github.com/the-1Riddle">
  <img src="https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya"/>
-
 </p>
 
 
-<h1>Hello, pals... <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
+<p align="center">
+ About Me
+</p>
+
+## Hello, pal...
+
 
 I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.--> a young passionate software engineer committed to producing high-quality applications and software systems, continually striving for excellence in the dynamic field of software development with a primary focus on the backend.
 
@@ -15,6 +19,8 @@ I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Ho
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: [Gmail](mailto:elvisotienomboya@gmail.com) .
 Thank you.
+
+<br />
 
 <p align="center">
  MY SERVICES
@@ -81,7 +87,10 @@ Thank you.
 ### ✍️ 【﻿Random Dev Joke】 &nbsp; &nbsp; &nbsp; &nbsp;  ![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) 
 
   &nbsp; &nbsp; &nbsp; &nbsp; Why is the Terminal black?
+  
   &nbsp; &nbsp; &nbsp; &nbsp; Because programmers are attrackted to dark mode.
+
+<br />
 
 <p align="center">
  MY PORTFOLIO
