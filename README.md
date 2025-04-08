@@ -28,11 +28,21 @@ Thank you.
 |---------|----------|-------------|
 | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpaqui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum. |
 
+<br />
 
-## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+<p align="center">
+ MY Skills
+</p>
+
+<h2 align="center">
+ Tech Stack Advantages
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+</h2>
+
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,rust,cs,js,git,bash,php,github,dotnet,flask,fastapi,vue,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,visualstudio,docker,html,css&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,python,go,rust,cs,js,git,bash,php,github,dotnet,flask,fastapi,vue,regex,nginx,mysql,mongodb,redis,md,linux,redhat,vim,sublime,visualstudio,docker,html,css&perline=14" />
   </a>
 </p>
 
@@ -42,8 +52,22 @@ Thank you.
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1118614849535090759)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1118614849535090759)](https://dev.discordprofiles.me/openspotify/1118614849535090759)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
+[![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
 
 <br>
+
+<p align="center">
+ MY RESUME
+</p>
+
+<h2 align="center">
+ Education & Experience
+</h2>
+
+| Technical Assistant | Backend Developer | Bachelor's Degree in Design |
+|-|-|-|
+| quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpaqui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum. |
+
 
 ## Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
 
@@ -54,13 +78,18 @@ Thank you.
 
 </br>
 
-### ✍️ 【﻿Random Dev Joke】
+### ✍️ 【﻿Random Dev Joke】 &nbsp; &nbsp; &nbsp; &nbsp;  ![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) 
 
   &nbsp; &nbsp; &nbsp; &nbsp; Why is the Terminal black?
-  
   &nbsp; &nbsp; &nbsp; &nbsp; Because programmers are attrackted to dark mode.
 
-![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
+<p align="center">
+ MY PORTFOLIO
+</p>
+
+<h2 align="center">
+ Helping digital brands scale with design.
+</h2>
 
 
 <br>
