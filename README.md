@@ -16,6 +16,19 @@ I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Ho
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: [Gmail](mailto:elvisotienomboya@gmail.com) .
 Thank you.
 
+<p align="center">
+ MY SERVICES
+</p>
+
+<h2 align="center">
+ What Services I Provide?
+</h2>
+
+| Software Development | Virtual Assistance | Web Development |
+|---------|----------|-------------|
+| quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpaqui officia deserunt mollit anim id est laborum. | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum. |
+
+
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
