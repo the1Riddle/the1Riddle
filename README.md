@@ -5,7 +5,9 @@
 
 I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.--> a young passionate software engineer committed to producing high-quality applications and software systems, continually striving for excellence in the dynamic field of software development with a primary focus on the backend.
 
-- Currently working on the EmpowerH website project, a robust platform where women can connect, share experiences, and engage in discussions on crucial topics promoting women's wellness. 
+- Currently working on:
+- Epubespiar, a browser extension that helps you read EPUB files right in your browser.
+- EmpowerH website project, a robust platform where women can connect, share experiences, and engage in discussions on crucial topics promoting women's wellness. 
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: [Gmail](mailto:swe.elvisotieno@gmail.com) .
 Thank you.
