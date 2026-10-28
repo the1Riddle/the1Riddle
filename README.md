@@ -17,7 +17,7 @@
 
 <h1>Hello, pals... <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
-I'm Elvis Otieno, <!--a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.--> a young passionate software engineer committed to producing high-quality applications and software systems, continually striving for excellence in the dynamic field of software development with a primary focus on the backend.
+I'm Elvis, <!--a passionate software engineering student at ALX Africa/Holberton School, dedicated to honing my skills in application development, and software systems as I strive to excel in the dynamic field of software development.--> a young, passionate software engineer committed to producing high-quality applications and software systems, continually striving for excellence in the dynamic field of software development with a primary focus on the backend.
 
 - Currently working on:
 - [Epubespiar](https://github.com/rezzcode/Epubespiar), a browser extension that helps you read EPUB files right in your browser.
