@@ -21,7 +21,7 @@ I'm Elvis, <!--a passionate software engineering student at ALX Africa/Holberton
 
 - Currently working on:
 - [Epubespiar](https://github.com/rezzcode/Epubespiar), a browser extension that helps you read EPUB files right in your browser.
-- [Mprufer](https://mprufer.the1riddle.me), a student marks validation platform that helps lecturers and examiners provide accurate results to the student portal.
+- [Mprufer](https://mprufer.rezzcode.me), a student marks validation platform that helps lecturers and examiners provide accurate results to the student portal.
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: [Gmail](mailto:rezzcode.me@gmail.com) .
 Thank you.
